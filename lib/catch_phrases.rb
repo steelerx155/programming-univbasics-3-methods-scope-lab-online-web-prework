@@ -5,7 +5,7 @@ phrase = "It's-a me, Mario!"
 end
 
 def toadstool
-  status = "puts out 'Thank You Mario! But Our Princess Is In Another Castle!'"
+  status = "Thank You Mario! But Our Princess Is In Another Castle!"
   puts status
 end
 
@@ -15,8 +15,6 @@ def link
 end
   
 def any_phrase 
-    phrase = "Do A Barrel Roll!".
+    phrase = "Do A Barrel Roll!"
   puts phrase
 end
-
-    
