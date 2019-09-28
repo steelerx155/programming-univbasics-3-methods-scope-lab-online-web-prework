@@ -5,7 +5,7 @@ phrase = "It's-a me, Mario!"
 end
 
 def toadstool
-  status = "Thank You Mario! But our Princess Is In Another Castle!"
+  status = "puts out 'Thank You Mario! But Our Princess Is In Another Castle!'"
   puts status
 end
 
